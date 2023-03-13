@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/ReadWrite.sol": "ReadWirte"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/ReadWrite.sol": {
+			"keccak256": "0xb6ad7b3839740bb2173b5a9d4820f24a21c0985596e6057083a339dc52eb2e5a",
+			"license": "UNLISCENCED",
+			"urls": [
+				"bzz-raw://93371f51f290397b6ad1041243d70a1b618c30e01b91a66bbe806bb29b39ae61",
+				"dweb:/ipfs/QmZuYLXTPUxvEnSYwvNwzFrtJUMjC8xo62CtAd3HKgMhqL"
+			]
+		}
+	},
+	"version": 1
+}
